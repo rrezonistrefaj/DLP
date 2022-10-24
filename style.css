@@ -14,3 +14,14 @@ body{
     color: black;
 
 }
+#time{
+    font-size: 10rem;
+}
+
+h1{
+    margin-bottom:5rem;
+}
+h2{
+    margin-bottom: 0.5rem;
+    opacity: 0.6;
+}
